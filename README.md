@@ -76,4 +76,4 @@ links-https://youtube.com/playlist?list=PLq_SHLFD-pSD_LeiV2dyAHgED7PDF48Jq&si=vB
 ## 👤 Author
 
 Developed with passion by **Geetesh Vaity**  
-Connect on: [LinkedIn](www.linkedin.com/in/geetesh-sanjay-vaity)
+Connect on: [LinkedIn](www.linkedin.com/in/geetesh-sanjay-vaity/)
