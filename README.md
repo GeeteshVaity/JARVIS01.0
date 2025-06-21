@@ -65,8 +65,9 @@ links-https://youtube.com/playlist?list=PLq_SHLFD-pSD_LeiV2dyAHgED7PDF48Jq&si=vB
    ```bash
    pip install -r requirements.txt
    ```
+4. **Modify the path for the apps and the emailid**
 
-4. **Run the Application:**
+5. **Run the Application:**
    ```bash
    jarvis.py
    ```
