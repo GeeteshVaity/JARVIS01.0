@@ -1,0 +1,10 @@
+opencv-python
+pyttsx3
+pywhatkit
+SpeechRecognition
+wikipedia
+requests
+psutil
+keyboard
+pyjokes
+PyQt5
