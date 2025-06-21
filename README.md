@@ -68,7 +68,7 @@ links-https://youtube.com/playlist?list=PLq_SHLFD-pSD_LeiV2dyAHgED7PDF48Jq&si=vB
 
 4. **Run the Application:**
    ```bash
-   python main.py
+   jarvis.py
    ```
 
 ---
